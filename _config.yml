@@ -1,0 +1,23 @@
+name: Elite Fitness
+favicon: null
+layout_spectrum: 0.21371604967862368
+typography_spectrum: 0.9047935812268406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5426022605970502
+  lightness: 0.8223157697357237
+  saturation: 0.8005173755809665
+  rhythmicContrast: 0.020948298973962665
+purpose: []

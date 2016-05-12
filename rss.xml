@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Timeless Youth]]></title>
-        <description><![CDATA[Timeless Youth]]></description>
+        <title><![CDATA[Whitaker Fitness]]></title>
+        <description><![CDATA[Whitaker Fitness]]></description>
         <link>https://thegrid.ai/elite-fitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 17:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 17:32:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/elite-fitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adrenal Fatigue-And What to Do About It]]></title>
+            <description><![CDATA[<article><h1>Adrenal Fatigue-And What to Do About It</h1><p>Though by no means in the mainstream, conversations about adrenals-and incipient "adrenal fatigue"-have been coming up more and more. Flat out: Everyone is exhausted, and this tapped out function is one of the reasons why. Below, we asked Dr. Junger for some more information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/346440c8996eb8eaab8ee2a6483acbd8563aad97.jpg"></article>]]></description>
+            <link>http://goop.com/adrenal-fatigue-and-what-to-do-about-it/?sf25869559=1&amp;utm_medium=email&amp;utm_source=flipboard</link>
+            <guid isPermaLink="false">8d136c58-df56-40f1-8d22-2db9e0123809</guid>
+            <pubDate>Thu, 12 May 2016 17:32:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Weight Loss Happens In Your Head, Not Your Stomach]]></title>
             <description><![CDATA[<article><h1>Weight Loss Happens In Your Head, Not Your Stomach</h1><p>Want to lose weight? The first muscle you need to exercise is your brain. I say this because it's another month, and another round of fad diets or silly, yet somehow trendy, workout contraptions promising a new body, a new you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dafb0a61120d70bc4e87b7de4e1837247f9e8ef6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.shape.com/weight-loss/tips-plans/ask-diet-doctor-vitamin-d-and-weight-loss?utm_medium=email&amp;utm_source=flipboard</link>
             <guid isPermaLink="false">56412d34-0c64-4135-8051-ee30c00b9d70</guid>
             <pubDate>Tue, 19 Jan 2016 16:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Tips to Transform Your Physique]]></title>
-            <description><![CDATA[<article><h1>10 Tips to Transform Your Physique</h1><p>Written by in Health & Fitness on the 18th January 2016 / 10 Tips to Transform Your Physique Making efforts aimlessly in a random manner is going to take you nowhere. First, figure out what is the ultimate outcome you desire, next, identify the type of exercises and diet best suited for accomplishment of that outcome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4852784d181b690efb9b1df730c17659742e8d6.jpg"></article>]]></description>
-            <link>http://www.menswearstyle.co.uk/2016/01/18/10-tips-to-transform-your-physique/5095?utm_medium=email&amp;utm_source=flipboard</link>
-            <guid isPermaLink="false">17785ea1-ee96-4a63-81dc-930abd3e41ce</guid>
-            <pubDate>Tue, 19 Jan 2016 15:56:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

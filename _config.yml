@@ -1,7 +1,7 @@
-name: Whitaker Fitness
+name: Elite Fitness
 favicon: null
-layout_spectrum: 0.21371604967862368
-typography_spectrum: 0.9047935812268406
+layout_spectrum: 1
+typography_spectrum: 0.86996
 cta:
   domain: null
   bucket: null

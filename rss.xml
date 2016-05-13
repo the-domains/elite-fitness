@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Whitaker Fitness]]></title>
-        <description><![CDATA[Whitaker Fitness]]></description>
+        <title><![CDATA[Elite Fitness]]></title>
+        <description><![CDATA[Elite Fitness]]></description>
         <link>https://thegrid.ai/elite-fitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 06:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:48:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/elite-fitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The weird history of vitamin D - and what it actually has to do with sun]]></title>
+            <description><![CDATA[<article><h1>The weird history of vitamin D - and what it actually has to do with sun</h1><p>As you soak in rays of almost-summer sunshine, your thoughts may turn to vitamin D - because you probably know it has something to do with the sun. But do you actually know what it is? Humans are kinda capable of photosynthesis, and they use it to produce what scientists believe to be the oldest hormone that has ever existed on earth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40e159dc92e5507fbf3e17d6323cd1994f1a0e62.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/news/speaking-of-science/wp/2016/05/12/the-weird-history-of-vitamin-d-and-what-it-actually-has-to-do-with-sun/?utm_medium=email&amp;utm_source=flipboard</link>
+            <guid isPermaLink="false">0606e18e-fc9b-482d-a8ad-735821369a67</guid>
+            <pubDate>Fri, 13 May 2016 07:47:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[See the Dramatic Changes In Bodybuilders' Physiques Over the Past 125 Years]]></title>
             <description><![CDATA[<article><h1>See the Dramatic Changes In Bodybuilders' Physiques Over the Past 125 Years</h1><p>I had never read a bodybuilding magazine before I started working at one. It was December 1992, I was a broke-ass graduate student, and out of pure luck landed a part-time copyediting job at Muscle & Fitness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10a4b038da9d114c63ce4888e24c78601267ebdb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.huffingtonpost.co.uk/victoria-wills-/weight-loss-happens-in-your-head-not-your-stomach_b_9837002.html?utm_medium=email&amp;utm_source=flipboard</link>
             <guid isPermaLink="false">fa7b457a-f788-4d8a-9f6f-c20a30723e54</guid>
             <pubDate>Thu, 12 May 2016 17:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What you really need to know about protein]]></title>
-            <description><![CDATA[<article><h1>What you really need to know about protein</h1><p>Whether you add a scoop of protein powder to your daily smoothie or roast enough chicken during Sunday night meal prep to feed a CrossFit gym full of hungry women, it's safe to say that protein intake is on your radar. After all, we need to build our strength to power through a muscle-taxing boot camp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54dd25cf06c286878acf14d907b2a7588f54c6fc.jpg"></article>]]></description>
-            <link>http://www.wellandgood.com/good-food/guide-to-protein/?utm_medium=email&amp;utm_source=flipboard</link>
-            <guid isPermaLink="false">c8a194ff-b49b-49de-a338-b9f09cfda402</guid>
-            <pubDate>Sat, 30 Apr 2016 18:02:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
